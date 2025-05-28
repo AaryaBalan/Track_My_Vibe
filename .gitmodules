@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = http://github.com/AaryaBalan/Mood-Tracker-frontend
+[submodule "server"]
+	path = server
+	url = http://github.com/AaryaBalan/Mood-Tracker-backend
